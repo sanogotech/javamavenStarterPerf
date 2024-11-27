@@ -4,7 +4,7 @@
 
 Voici un exemple de fichier `README.md` pour un projet Maven avec une structure d'arborescence et les 5 commandes Maven les plus utiles à connaître :
 
-```markdown
+
 # Projet Maven
 
 ## Arborescence du projet
@@ -70,6 +70,5 @@ Voici les 5 commandes Maven les plus couramment utilisées dans le développemen
 
 Maven est un outil puissant pour la gestion de projet Java. Ces cinq commandes de base sont essentielles pour la gestion du cycle de vie de votre projet. Pour plus de commandes et d'options avancées, consultez la [documentation officielle de Maven](https://maven.apache.org/).
 
-```
 
 Ce `README.md` fournit une vue d'ensemble de la structure d'un projet Maven ainsi que des commandes essentielles pour la gestion et la construction d'un projet Maven.
