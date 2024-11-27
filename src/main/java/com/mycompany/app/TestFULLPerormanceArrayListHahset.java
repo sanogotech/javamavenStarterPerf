@@ -2,7 +2,7 @@ package com.mycompany.app;
 
 import java.util.*;
 
-public class TestPerormanceArrayListHahset {
+public class TestFULLPerormanceArrayListHahset {
     public static void main(String[] args) {
         // Comparer la recherche dans une ArrayList
         TestArrayList testArrayList = new TestArrayList();
